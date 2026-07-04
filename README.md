@@ -1,3 +1,3 @@
 # project-56
 my way
-<br> <big>my way</big>
+<br> <b>my way</b>
